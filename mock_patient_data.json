@@ -1,0 +1,16 @@
+{
+    "Patient": {
+      "Name": "John Doe",
+      "Location": "917 Central Ave, San Francisco, CA 94115",
+      "DistanceFromLocationInMiles": 20,
+      "DatesAndTimes": {
+        "Monday": "9:00 AM - 5:00 PM",
+        "Wednesday": "10:00 AM - 4:00 PM",
+        "Friday": "8:00 AM - 3:00 PM"
+      },
+      "Coverage": "Medicare Part A",
+      "AppointmentType": "Follow-up",
+      "ReasonForVisit": "Routine check-up and medication adjustment"
+    }
+}
+  
